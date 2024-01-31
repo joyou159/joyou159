@@ -71,6 +71,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40">
   <img src="https://discourse.jalview.org/uploads/default/original/1X/c4d70745f609a3282babe01a90d3d8ed728dd07d.png" title="Jalview" alt="Jalview" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="Visual Studio Code" alt="VSCode" width="40" height="40">
 </div>
 
 
