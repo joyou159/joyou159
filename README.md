@@ -19,17 +19,58 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
-<!--
-**joyou159/joyou159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
+ I'm driven by a profound passion for scientific research, particularly in the realm of biosignals and bioinformatics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - :mailbox:How to reach me: youssefshawki89@gmail.com
+
+### :hammer_and_wrench: Skill Set  : 
+
+#### Desktop Development:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40">
+</div>
+
+#### Technical Development:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+</div>
+
+#### Web Development:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+</div>
+
+#### Database Development:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+#### Typesetting:
+<div>
+  <img src="https://user-images.githubusercontent.com/49899602/103332150-553fb180-4aac-11eb-8d6f-55f6a647a243.jpg" title="LaTeX" alt="LaTeX" width="40" height="40">
+</div>
+
+#### Hardware Development:
+<div>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40">
+  <img src="https://static-00.iconduck.com/assets.00/file-type-verilog-icon-256x256-goe8p7qm.png" title="Verilog" alt="Verilog" width="40" height="40">
+  <img src="https://www.labcenter.com/images/logo.png" title="Proteus" alt="Proteus" width="40" height="40">
+</div>
+
+#### Others:
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40">
+  <img src="https://discourse.jalview.org/uploads/default/original/1X/c4d70745f609a3282babe01a90d3d8ed728dd07d.png" title="Jalview" alt="Jalview" width="40" height="40">
+</div>
+
+
