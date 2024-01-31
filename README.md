@@ -1,5 +1,24 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
+<div id="badges">
+  
+  <a href="https://linkedin.com/in/youssef-a-shawki">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/youssef_shawki111/">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=magenta" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100006126728878&mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=joyou159&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 <!--
 **joyou159/joyou159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
