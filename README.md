@@ -25,7 +25,7 @@
  I'm driven by a profound passion for scientific research, particularly in the realm of biosignals and bioinformatics. 
  
   - :telescope: I’m working as a Python developer. 
-  - :seedling: I'm learning advanced topics in bioinformatics.
+  - :seedling: I'm learning advanced topics in AI.
   - :mailbox:How to reach me: youssefshawki89@gmail.com
 
 ### :hammer_and_wrench: Skill Set  : 
