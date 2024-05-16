@@ -22,7 +22,7 @@
 </div>
 
 ### :man_technologist: About Me :
- I'm driven by a profound passion for scientific research, particularly in the realm of biosignals and bioinformatics. 
+ I'm driven by a profound passion for scientific research, particularly in the realm of AI and bioinformatics. 
  
   - :telescope: I’m working as a Python developer. 
   - :seedling: I'm learning advanced topics in AI and bioinformatics.
